@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain proposals humbly presented to the Parliament, in relation to the common good of the people of this nation. By R.V. Esq;</title>
+            <author>Vaughan, Rice.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95829</idno>
+            <idno type="STC">Wing V130B</idno>
+            <idno type="STC">Thomason E683_14</idno>
+            <idno type="STC">ESTC R206817</idno>
+            <idno type="EEBO-CITATION">99865923</idno>
+            <idno type="PROQUEST">99865923</idno>
+            <idno type="VID">118178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118178)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E683[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain proposals humbly presented to the Parliament, in relation to the common good of the people of this nation. By R.V. Esq;</title>
+                  <author>Vaughan, Rice.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton, and are to be sold at his shop at sign of the three Daggers in Fleetstreet, near the Inner-Temple-gate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653. [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.V. = Rice Vaughan.</note>
+                  <note>Thomason received his copy 3 December 1652.</note>
+                  <note>Annotations on Thomason copy: "Deb: 3d. 1652"; the '3' in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118178:1" rendition="simple:additions"/>
+            <p>CERTAIN PROPOSALS Humbly preſented to the PARLIAMENT, In relation to the Common Good OF THE PEOPLE OF THIS NATION.</p>
+            <p>By <hi>R. V.</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 14.34.</hi>
+               </bibl>
+               <p>Righteouſneſs exalteth a Nation.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Seneca, De vita beata, page 457.</hi>
+               </bibl>
+               <p>Quaeramus quid optimè factum, non quid uſitatiſsimum.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Tyton,</hi> and are to be ſold at his ſhop at ſign of the three Daggers in Fleetſtreet, near the Inner-Temple-gate. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dedication">
+            <pb n="2" facs="tcp:118178:2"/>
+            <head>To the Parliament of the Commonwealth of <hi>England</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>DId you but hear the utterings of every private <hi>breaſt</hi> that is well-affected to you (of others I ſpeak not) certainly you would be ſenſible of much hard and grating language againſt ſome of you <hi>at leaſt,</hi> if not againſt <hi>moſt of you;</hi> how juſt their cry is, your ſelves are beſt able to judge, and I moſt incompetent. That you, and all your <hi>ſubordinate Magiſtrates</hi> in the Land, might be <hi>Peace and Righteouſneſs</hi> to the Nation, is the prayer of them that truly wiſh your and its welfare. Among the reſt, it is the earneſt deſire of him that addreſſes theſe Propoſals to you, that you might not <hi>onely</hi> be a bleſſing to this Land, but to the Na<g ref="char:EOLhyphen"/>tions round <hi>about you;</hi> yea, Benefactors indeed to the world; not (as one ſaith) like water-pots, that refreſh your <hi>own</hi> plot of ground; but like ſhowers, that water and make fruitful the <hi>whole earth.</hi> The Propoſer humbly prayes, That when the intentneſs of your thoughts is unbent from the conſideration of more pub<g ref="char:EOLhyphen"/>lique affairs, you would pleaſe to conſider what is herein pro<g ref="char:EOLhyphen"/>poſed to you. Some things therein (becauſe of long contrary practiſe and cuſtom) may ſeem novel or difficult <hi>at beſt;</hi> yet if you pleaſe to conſider and examine them, you will finde they have more of cuſtom and uſe, then Reaſon or Juſtice, againſt them; and it will be your greater honor, to reform early and rooted evils, then thoſe that are of a late and junior riſe; by how much great difficulties are the more adaequate objects of the grap<g ref="char:EOLhyphen"/>lings and encounters of great ſpirits, eſpecially ſuch as are backed with wiſdom and ſtrength. I could have labored more to <hi>pleaſe</hi> then to profit (as too many do now adays) for <hi>profits</hi> ſake; but I hope to have <hi>learned better things,</hi> then to follow the Parlia<g ref="char:EOLhyphen"/>ment (or own the cauſe they have undertaken, which indeed I have) <hi>for loaves,</hi> but for a good conſcience, which is a continual <hi>feaſt</hi> to a <hi>plain-dealing man,</hi> though (as the Proverb ſaith) He may dye a beggar. <hi>Sed timida probitas non prodeſt reipub.</hi>
+            </p>
+            <closer>
+               <dateline>Grays Inn, <date>this <hi>16.</hi> Nov. <hi>1652.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>I am yours and the Commonwealths faithful Servant,</hi> R. V.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:118178:2"/>
+            <head>CERTAIN PROPOSALS Humbly preſented to the PARLIAMENT, IN Relation to the common good of the People of this Nation.</head>
+            <p n="1">1. PROPOSITION.</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat no Committee or Commiſſioners whatſoever, deriving power from the Parliament to give a <hi>Final</hi> Judgement or Sentence in any caſe between party and party, or the State and particular perſons, may command the people (that are Auditors) to <hi>withdraw,</hi> in any caſe whatſoever; but that (while ſitting in Court) they debate all caſes <hi>openly,</hi> and give their judgement therein <hi>Coram Populo,</hi> as all <hi>inferior Courts</hi> of Juſtice in <hi>England,</hi> &amp; elſewhere do; &amp; as the <hi>Scripture</hi> directi<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:118178:3"/>and practiſe was; for there <hi>Courts</hi> of Juſtice were kept in the<note n="a" place="margin">Zac. 8.16 Deut. 21.19. Deut. 16.18. Joſh. 20.4. Prov. 24.7. Dan. 2.49. Amos 5.12.15. <hi>Godwins Antiq. l.</hi> 2. <hi>c.</hi> 3.</note> 
+               <hi>Gates,</hi> and in the<note n="b" place="margin">Act. 16.19. Job 29 7.</note> 
+               <hi>Market-place</hi> or <hi>open ſtreets,</hi> which were places of the greateſt <hi>popular</hi> reſorts and concourſe; and from Scripture we have not one <hi>warrantable Precedent</hi> to juſtifie the practiſe of commanding to withdraw by Com<g ref="char:EOLhyphen"/>mittees and Commiſſioners at this day; neither can they juſti<g ref="char:EOLhyphen"/>fie it by the <hi>Laws</hi> of any other Nation, or by any <hi>colourable</hi> pretence of Reaſon; and it was accompted a matter of great lamentation in Scripture, for the<note n="c" place="margin">Lam. 5.14.</note> 
+               <hi>Elders</hi> (or Judges) to <hi>ceaſe from the Gates.</hi>
+            </p>
+            <p>Object. 1. Yet ſome may Object, <hi>That all Committees of Par<g ref="char:EOLhyphen"/>liament for</hi> many ages <hi>heretofore, did uſually command with<g ref="char:EOLhyphen"/>drawing, when they were to debate.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. It is confeſſed, that all former Committees of Parliament, without exception, did always command with<g ref="char:EOLhyphen"/>drawing, when they were to debate <hi>any caſe whatſoever;</hi> and not onely ſo, but when they were to give their <hi>opini<g ref="char:EOLhyphen"/>ons.</hi>
+            </p>
+            <p>But Secondly, All Committees of Parliament (before this) were impowered <hi>onely</hi> to debate particular caſes and grievan<g ref="char:EOLhyphen"/>ces, and to give their opinion thereupon to the <hi>Houſes;</hi> they were not to give <hi>any concluſive and determinate ſentence there<g ref="char:EOLhyphen"/>in,</hi> but that was to be left to the Parliament; upon which ac<g ref="char:EOLhyphen"/>count there was good ground of withdrawing: Becauſe firſt it was fit the Parliament ſhould know their <hi>Reſults,</hi> before common Auditors: And Secondly, becauſe their opinions were but <hi>preparatory</hi> unto Laws that were to be Enacted by the Parliament.</p>
+            <p>
+               <hi>Object.</hi> 2. It may further be objected from Scripture, <hi>That the</hi> Councel of the Jews <hi>in the</hi> 4. <hi>of the</hi>
+               <note n="d" place="margin">Acts 4.15.</note> Acts, <hi>did command the Apoſtles</hi> Peter <hi>and</hi> John, <hi>to</hi> go aſide, <hi>or withdraw, when their Preaching and doing Miracles in the name of</hi> Jeſus <hi>were to be conſidered of.</hi>
+            </p>
+            <p>It is Anſwered,<note place="margin">
+                  <hi>Anſw.</hi> 1.</note> Firſt, That this councel of the Jews was
+<pb n="5" facs="tcp:118178:3"/>not a Court for execution of civil juſtice; as the deciding <hi>meum</hi> and <hi>tuum.</hi> This <hi>Sanhedrion,</hi> for ſo is the word in the ori<g ref="char:EOLhyphen"/>ginal (for ought appears) conſiſted of a<note n="d" place="margin">Acts 4.5, 6</note> High Prieſt, his kindred, who were <hi>ex genere pontificio,</hi> Rulers <hi>(i,)</hi> as ſome think, Military Officers, Elders, who were <hi>Senatores urbis,</hi> and Scribes, who were Diſputers and expounders of the Law; all theſe made up a Conſiſtory, mixt of Civil and Eccleſiſtical Judges (the like whereof was in <hi>Mat.</hi> 26.3. convened againſt Chriſt) which (though at<note n="e" place="margin">2 Chro. 5. &amp; 8. &amp; 11. Mat. 10.17. <hi>Moſes Cont<g ref="char:EOLhyphen"/>ſenſ.</hi> in <hi>San<g ref="char:EOLhyphen"/>hedrim. Godwins Antiq. l.</hi> 5. <hi>c.</hi> 1</note> other times they ſate ſeverally, and had ſeveral Juriſdictions) did now agree to meet in a Coun<g ref="char:EOLhyphen"/>cel together (not a Court of Juſtice between party and party) to conſider of a matter that they pretended to be of concern<g ref="char:EOLhyphen"/>ment to the peace of Church and State, as appears by their de<g ref="char:EOLhyphen"/>bates, and what was the reſult thereof; for (ſay they)<note n="f" place="margin">Acts 4.16, 17.</note> 
+               <hi>What ſhall we do unto theſe men? for that INDEED a notable miracle hath been done by them, is manifeſt to all that dwell in Jeruſalem, and we cannot deny it; but that it ſpread no further among the people, let us ſtraitly threaten them that they ſpeak to no man henceforth in this name.</hi>
+            </p>
+            <p>Secondly, Let it be obſerved, This Councel did confeſs, it was a <hi>notable miracle,</hi> that was done by <hi>Paul,</hi> and that<note n="*" place="margin">See <hi>v. 14, 15.</hi> Becauſe the Jews could ſay nothing againſt <hi>Paul</hi> and <hi>John,</hi> therefore they bid them go aſide, becauſe they might contrive ſomething to ſtop their mouthes.</note> 
+               <hi>they could not deny it;</hi> their own con<g ref="char:EOLhyphen"/>ſcience told them the work he had done, was good, and it was not judged fit by them to de<g ref="char:EOLhyphen"/>clare it publiquely; becauſe then the People (as well as their own conſciences) would flie in in their faces; and indeed ſuch <hi>deeds of darkneſs</hi> had need hate the light for fear of diſcovery: This is a very ill precedent for our Committees or Commiſſioners to warrant withdraw<g ref="char:EOLhyphen"/>ing.</p>
+            <p>That all <hi>Civil</hi> imployment whatſoever,<note place="margin">2. PROP.</note> may be diſpoſed to the <hi>beſt</hi> and <hi>ableſt</hi> men, and not given to ignorant <hi>friends, relations</hi> or <hi>ſeekers;</hi> contrary to that <hi>excellent</hi> Law in<note n="h" place="margin">12. <hi>R.</hi> 2. <hi>c.</hi> 2</note> 
+               <hi>Richard</hi> the ſeconds time; which is in theſe words; <hi>None ſhall be pre<g ref="char:EOLhyphen"/>ferred for gift or brokage, favor or affection; and none that pur<g ref="char:EOLhyphen"/>ſueth by himſelf, or another privily, or openly, be in any manner of office, or ſhall be put in the ſame, or in any other; but that all Officers ſhall be of the beſt, moſt lawful, and ſufficient men ac<g ref="char:EOLhyphen"/>cording to eſtimation and knowledge:</hi> Which holds forth clear<g ref="char:EOLhyphen"/>ly,
+<pb n="6" facs="tcp:118178:4"/>that all Officers ſhould be <hi>pares negotiis,</hi> men of truth and knowledge of what they are called to do; or as the Scripture ſaith,<note n="a" place="margin">Exod. 18.21. Deut. 1.13.</note> 
+               <hi>Able men, fearing God, men of truth, and hating cove<g ref="char:EOLhyphen"/>touſneſs:</hi> And if the time (we are in) will not, or need not ſtick to ſuch <hi>ſtrict Rules,</hi> yet it is fit that perſons that ſhall be preferred (be they relations or ſeekers) be of the <hi>fitteſt, wiſeſt,</hi> and <hi>beſt men,</hi> knowing the work they are upon; elſe, as <hi>Solomon</hi>
+               <note n="b" place="margin">Eccle. 10.6</note> ſaith, <hi>Folly may be ſet up in great dignity;</hi> and <hi>Wiſdom will be ſo high to ſuch, that they cannot</hi>
+               <note n="c" place="margin">Prov. 24.7.</note> 
+               <hi>open their mouth in the gates<g ref="char:punc">▪</g>
+               </hi> and then a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoo-maker may be ſuppoſed, without any <hi>experience</hi> to be able to make a ſuit of cloathes as well as a Taylor &amp; a Taylor a pair of ſhoos as well as a Shoo-maker. It was the judgement of <hi>Moſes, Deut.</hi> 1 13. that<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſa<g ref="char:EOLhyphen"/>piens peritus.</note> 
+               <hi>wiſe men (i.)</hi> skilful and experienced men <hi>underſtanding men, (i.)</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> erudi<g ref="char:EOLhyphen"/>tus, intelli<g ref="char:EOLhyphen"/>gens.</note> learned and intelligent men: and men<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> notus fuit.</note> known among the Tribes, <hi>(i.)</hi> famous for the aforementioned qualities, and of a good name with the people, ſhould be Magiſtrates, Judges, and Officers under him; and accordingly was his choyce; for ver. 15. of the aforeſaid Chapter, he ſet over the People of the<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> pri<g ref="char:EOLhyphen"/>marij<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, pre<g ref="char:EOLhyphen"/>ſtantiſsij<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> 
+               <hi>chief among the Tribes,</hi> for Magiſtrates and Heads, <hi>(viz.)</hi> as the word ſignifies; the <hi>chiefeſt and choiceſt men:</hi> And as <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>odati</hi> in his Comment upon this place expounds the word, chief men in gifts, in quality, in reputation, in authority; yea, in all manner of preheminencies and excellencies.</p>
+            <p>That a groſs and irregular <hi>byaſsing</hi> for the <hi>State,</hi> by any perſon whatſover,<note place="margin">3. PROP</note> againſt any man ill-affected, or otherwiſe, may he branded for as hainous and great a <hi>crime</hi> as it was accounted in the beginning of this Parliament, for a <hi>Courtier</hi> to cleave to the <hi>intereſt</hi> of the King his maſter, againſt <hi>right and juſtice;</hi> elſe we not onely <hi>tolerate</hi> in our ſelves what we <hi>exclaimed at, and condemned in others;</hi> but we give it a <hi>Cha<g ref="char:EOLhyphen"/>racter</hi> of the higheſt approbation and countenance that may be, <hi>even our practiſe;</hi> and ſhew further, that it is not the <hi>crime,</hi> but the <hi>perſon</hi> that we were offended withal.</p>
+            <p>That all <hi>great</hi> Officers,<note place="margin">4. PROP.</note> who have great ſallaries from the State, as Treaſurers at war, Commiſſioners of the Cuſtom<g ref="char:EOLhyphen"/>houſe, Commiſſioners of Excize,<note place="margin">If great Of<g ref="char:EOLhyphen"/>ficers (who have great ſallaries) be changed frequently, many men that are well-affected, may comfortably ſubſiſt, whereas now one man (in an age) and his poſterity, are lifted up into the ſeat of pomp and pride, by exceſsive gain.</note> &amp;c. be changed every
+<pb n="7" facs="tcp:118178:4"/>ſecond or third year (if the Parliament think fit) and that <hi>faithfulneſs, true worth and wiſdom,</hi> may be accompted <hi>better</hi> accompliſhments, for ſuch truſts, then <hi>wealth,</hi> (which ſome<g ref="char:EOLhyphen"/>times crept into theſe Offices) without any of theſe qualifi<g ref="char:EOLhyphen"/>cations; moſt rich men in <hi>moſt</hi> ages being accompted <hi>Sapi<g ref="char:EOLhyphen"/>entes ex crumenis.</hi>
+            </p>
+            <p>That all perſons whatſoever,<note place="margin">5. PROP.</note> which have gotten and do hold ſeveral profitable <hi>Imployments,</hi> as ſome officious favorites have gotten, and held <hi>five or ſix together at the ſame time,</hi> may ſurrender up all but one, which he or they may elect and hold to; and that the reſt be diſpoſed to <hi>thoſe that want:</hi> And that favorites for the future may not have ſix or ſeven ſucceſ<g ref="char:EOLhyphen"/>ſively one after another (as ſome have had) to the withhold<g ref="char:EOLhyphen"/>ing of bread from <hi>deſerving mens mouthes.</hi>
+            </p>
+            <p>That no perſon whatſoever (unleſs he refuſe to appear upon ſummons) be <hi>ſentenced</hi> to looſe <hi>life, limb,</hi> or <hi>eſtate,</hi> by any <hi>Court</hi> whatſoever, no not by <hi>Parliament,</hi> before he be <hi>heard to make his full defence,</hi> and before his offence be <hi>clear<g ref="char:EOLhyphen"/>ly,</hi> and <hi>fully proved,</hi> and he thereupon be <hi>duely judged,</hi> it being agreeable to the Law of God, that the ſame ſhould be done.</p>
+            <p>In<note n="a" place="margin">John 7.51. Deut. 13.14. &amp; 17.4.</note> 
+               <hi>John</hi> we have it urged, that the Jewiſh Law did not <hi>judge any man before it heard him, and knew what he did:</hi> And in <hi>Deut.</hi> 13.14. the Judges, before they judged caſes, were to <hi>enquire, and make ſearch, and ask diligently, and behold if it be truth, and the thing certain;</hi> And in the 17. Chapter, the very ſame words are repeated and inculcated, leaſt they ſhould forget their duties; and holy<note n="b" place="margin">Job 29.16.</note> 
+               <hi>Iob</hi> alledges it as a great comfort to him in his affliction, that <hi>he ſearched out the cauſe that he knew not:</hi> And for proof of any mans offences, it is not enough that <hi>one</hi>
+               <note n="c" place="margin">Deut. 17.6. &amp; 19.15, 16, 17, 18. Num. 3580.</note> 
+               <hi>witneſs</hi> prove it, much leſs information or preſumptions; for ſaith the Scripture, one witneſs ſhall not riſe up againſt <hi>any man for any iniquity or any ſin, in any ſin that he ſinneth, but at the mouth of two or three witneſſes ſhall the mat<g ref="char:EOLhyphen"/>ter be eſtabliſhed;</hi> therefore <hi>Jehoſhophats</hi> charge to the Judges he ſet up in <hi>Judah,</hi> ought to be obſerved by all other Judges, that they ſhould <hi>take heed</hi> what they do; for they judge not for man, but for the Lord, who is with them in judgement.</p>
+            <p>That the ſelling of any <hi>Office</hi> whatſoever,<note place="margin">7 PROP<g ref="char:punc">▪</g>
+               </note> by any perſon whatſoever, Judges or others, be <hi>ſeverely puniſhed.</hi>
+            </p>
+            <pb n="8" facs="tcp:118178:5"/>
+            <p>That the <hi>number</hi> of perſons in all Committees whatſoever (who have power of giving <hi>final and deciſive judgements</hi> in any caſe) may be but <hi>few;</hi>
+               <note place="margin">8. PROP.</note> the penalties of their non-attendance up<g ref="char:EOLhyphen"/>on their duties (without good excuſe) <hi>ſevere;</hi> and that an <hi>Oath</hi> be adminiſtred to every one of them, whether <hi>Parliament men or others,</hi> for the due execution of their truſt.</p>
+            <p>That no perſon whatſoever (which hath part in the <hi>Legiſla<g ref="char:EOLhyphen"/>tive</hi> Power) be truſted (while he remains ſuch) with the <hi>exe<g ref="char:EOLhyphen"/>cutive</hi> power;<note place="margin">9. PROP.</note> for if he offends in the <hi>execution</hi> of the Law, he may be judge in his <hi>own</hi> caſe, and may contrive his own <hi>impuni<g ref="char:EOLhyphen"/>ty,</hi> and no <hi>inferior Court can judge him;</hi> and he will be under the <hi>temptation</hi> of doing what may ſeem <hi>good in his own eyes,</hi> up<g ref="char:EOLhyphen"/>on confidence of his being out of the <hi>reach of ordinary Courts of Juſtice.</hi>
+            </p>
+            <p>That no Law be made relating to the <hi>reformation of any pro<g ref="char:EOLhyphen"/>feſſion or calling</hi> whatſoever,<note place="margin">10. PROP.</note>
+               <note place="margin">Cuique in ſua arte, nemini in ſuo inter<g ref="char:EOLhyphen"/>reſſe creden<g ref="char:EOLhyphen"/>dum.</note> without clear and deliberate con<g ref="char:EOLhyphen"/>ſultation had with ſome of the <hi>beſt</hi> and <hi>wiſeſt</hi> of ſuch profeſ<g ref="char:EOLhyphen"/>ſion or calling which is to be reformed.</p>
+            <p>That Parliament men (who are Judges of the <hi>Treaſon of of<g ref="char:EOLhyphen"/>fenders</hi> againſt the State,<note place="margin">11. PROP.</note> and conſent to paſs Laws for the <hi>con<g ref="char:EOLhyphen"/>fiſcation</hi> of their eſtates) may not be <hi>purchaſers thereof,</hi> either by <hi>themſelves, or any other, to or for their uſe.</hi>
+            </p>
+            <p>That no Law,<note place="margin">12. PROP.</note> that ſhall be <hi>penal,</hi> as to life, limb, or eſtate, do look backward to puniſh any perſon <hi>for things done, or omitted to be done many years before,</hi> except in caſes where a clear and unqueſtionable <hi>malum in ſe</hi> is committed and not where a Law makes a thing (formerly dubious,<note place="margin">Leges debent proſpicere, non reſpicere.</note> uncertain, or indifferent) a <hi>malum prohibitum</hi> afterwards.</p>
+            <p>That no Parliament-man whatſoever,<note place="margin">13. PROP.</note> may <hi>attend to move</hi> any Commiſſioners or Committees, deriving authority from the Parliament to give final judgement in cauſes, if he is not a <hi>mem<g ref="char:EOLhyphen"/>ber</hi> of the ſaid Committees, or one of the Commiſſioners, or hath not ſome <hi>perſonal concernment</hi> of his own before them, wherein he may be prejudiced by his <hi>abſence;</hi> or be not deſired for the <hi>benefit of the State</hi> to afford his aſſiſtance; it being ſup<g ref="char:EOLhyphen"/>poſed an unthrifty courſe, to dedicate time appointed for <hi>pub<g ref="char:EOLhyphen"/>lique ſervice,</hi> beneath its <hi>high deſignation.</hi>
+            </p>
+            <p>That every member of Parliament whatſoever,<note place="margin">14. PROP.</note> be <hi>enjoyned</hi> to receive the <hi>requeſts and petitions</hi> of all diſtreſſed perſons with<g ref="char:EOLhyphen"/>in
+<pb n="9" facs="tcp:118178:5" rendition="simple:additions"/>the <hi>Circuits of that County or Corporation</hi> where he or they were <hi>elected,</hi> and heartily to endeavor the redreſs of their (elſewhere irremediable) grievances in Parliament, <hi>this cer<g ref="char:EOLhyphen"/>tainly being one main end of their election.</hi>
+            </p>
+            <p>That Commiſſions of <hi>Bankrupt</hi> may be iſſued forth as well againſt any <hi>other perſons</hi> as a <hi>Tradeſman,</hi>
+               <note place="margin">15. PROP.</note> or one that lives by <hi>buying</hi> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ſelling,</hi> if he fall under any of the marks of a Bankrupt, within the <hi>Statutes</hi> of<note n="d" place="margin">13 <hi>Elik.</hi> 7.1. <hi>Jac.</hi> 15.21 <hi>Iac.</hi> 19.</note> Queen <hi>Elizabeth,</hi> and King <hi>James,</hi> there being <hi>no reaſon</hi> that any Law ſhould be <hi>partial</hi> to one man, and <hi>impartial</hi> and <hi>deſtructive</hi> to another, where both are <hi>equally peccant:</hi> And that the <hi>charges</hi> of theſe Com<g ref="char:EOLhyphen"/>miſſions, and <hi>cheats</hi> in the execution of them, may be enquired into, which ſometimes prove the <hi>further ruine,</hi> rather then the relief of the Creditors.</p>
+            <p>That <hi>Tenant by the courteſie,</hi>
+               <note place="margin">16. PROP.</note> do allow one <hi>moiety</hi> of the e<g ref="char:EOLhyphen"/>ſtate he holds in the <hi>right</hi> of his wife, to the childe or children he hath by her, towards his, her, or their maintenance; where<g ref="char:EOLhyphen"/>as now the husband may (during his life) chooſe whether he will allow them any thing at all towards their <hi>ſubſiſtance or education,</hi> although many ſuch Tenants by the courteſie, have nothing to <hi>ſupport themſelves,</hi> but what they have from their wives; and it is <hi>by experience found, that many fathers are very unnatural in this kinde.</hi>
+            </p>
+            <p>That no perſon whatſoever be <hi>amerced</hi> for not finding <hi>Bows</hi> and <hi>Arrows,</hi>
+               <note place="margin">17. PROP.</note> as now many Stewards of Courts do a<g ref="char:EOLhyphen"/>merce perſons every year for the want thereof, which the<note n="r" place="margin">
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.33.8. c. 9<g ref="char:punc">▪</g> &amp;c.</note> 
+               <hi>antient</hi> laws of this Land did direct ſhould be provided; but are now become <hi>obſolete,</hi> and would be forgotten, did not ſome cheating perſons diſturb their <hi>reſt, and revive them.</hi>
+            </p>
+            <p>That <hi>no Laws at all</hi> (which relate to the people in gene<g ref="char:EOLhyphen"/>ral) be paſſed,<note place="margin">18. PROP.</note> before firſt the <hi>draughts</hi> of them be hung up in a <hi>publique place,</hi> where all perſons of <hi>wiſdom</hi> and <hi>knowledge, experience and integrity,</hi> may have <hi>recourſe</hi> to view them,<note place="margin">The <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Tables</hi> among the Romans like this. See <hi>Live</hi> in En<g ref="char:EOLhyphen"/>gliſh. <hi>l.</hi> 3. p. 110.</note> and may have liberty to adde to them, or <hi>give rational</hi> exceptions againſt all or <hi>any part</hi> of them, and fix his or their exceptions to the whole or part of them, or <hi>adde</hi> as cauſe ſhall require, to the end the Parliament may <hi>approve or diſlike</hi> thereof, as it ſhall ſee cauſe<g ref="char:punc">▪</g> when the Laws ſhall come to be enacted; this would pre<g ref="char:EOLhyphen"/>vent many <hi>ſupplemental Acts,</hi> which now are neceſſarily made,
+<pb n="10" facs="tcp:118178:6"/>and in a great meaſure might be ſpared, if the <hi>Parliament</hi> could ſee all <hi>future accidents and events</hi> that follow, after the making thereof, or could but ſee as much as all <hi>other wiſe men of the Nation do.</hi>
+            </p>
+            <p>That a ſevere Law may be made againſt all <hi>obſcene, lying, and malignant Diurnals,</hi>
+               <note place="margin">19. PROP.</note> that are now familiarly publiſhed to the world, which tend not onely to the keeping <hi>unfixed</hi> of the peoples mindes from a <hi>quiet obedience</hi> to the Government, but do fearfully debauch and corrupt their underſtandings.</p>
+            <p>That (if the Parliament ſhould think fit) Thirty or Forty of the beſt and wiſeſt perſons in the Nation,<note place="margin">20. PROP.</note> may be appointed to ſit with them in the Houſe, to conſult with them <hi>de arduis reipublicae;</hi> and that theſe may have <hi>no voyces,</hi> but ſit as the Judges and Maſters of Chancery ſate heretofore in the Lords Houſe, onely to <hi>adviſe</hi> with them; for it cannot be ſuppoſed that Parliaments are <hi>ſo infallible and clear-ſighted,</hi> as to comprehend all caſes <hi>in every circumſtance</hi> (as time hath evi<g ref="char:EOLhyphen"/>dently diſcovered)<note n="*" place="margin">There ſate with the Iewiſh Iudges, men which were called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſchollers of the wiſe. Godwins Anti. l. <hi>5.</hi> c. <hi>5.</hi>
+               </note> This alſo would fit other perſons for <hi>future Repreſentatives,</hi> by knowing the <hi>ways and methods</hi> of the preſent Parliament.</p>
+            <p>That all Commanders and Officers of the Army,<note place="margin">21. PROP.</note> and all other perſons whatſoever, that ſhall <hi>threaten, or in any way un<g ref="char:EOLhyphen"/>lawfully ſollicite</hi> Judges of any Court (who have taken oathes for the right adminiſtration of Juſtice, and not for fear, favor or affection, to reſpect perſons in judgement) be puniſhed in ſuch ſevere manner, as to the Parliament ſhall ſeem juſt.</p>
+            <p>That Treaſurers at War,<note place="margin">22. PROP.</note> Commiſſioners of Exciſe and Cuſtoms, and all other perſons whatſoever, that have great <hi>ſallaries from the State;</hi> and all Officers of the Army in times of peace and quiet,<note place="margin">The Souldiery in <hi>Holland</hi> do pay exciſe, and all other pub<g ref="char:EOLhyphen"/>lique duties out of their pay, by way of defalcation, before it comes to their hands.</note> may pay <hi>Taxes proportionable to their ſallaries and pays, towards the defraying of the publike charge;</hi> for no other perſons in the Nation are exempt<g ref="char:EOLhyphen"/>ed from it, as <hi>Tradeſmen,</hi> who live by their labor and induſtry; or other Perſons who have real or perſonal eſtates, Offices, or otherwiſe; whereas now an <hi>ordinary Tradeſman,</hi> that hath but from <hi>hand to mouth,</hi> pays <hi>as much taxes for his houſe,</hi> as a great man that hath 1000 <abbr>l.</abbr> 
+               <hi>per annum</hi> from the State, as a Sallary for his place.</p>
+            <pb n="11" facs="tcp:118178:6"/>
+            <p>To conclude, It were not amiſs, if great Perſons,<note place="margin">23. PROP.</note> whom God hath lifted up many <hi>cubits</hi> above their brethren in the <hi>things</hi> of this world, would imitate the ſpirit of that excellent man<note n="*" place="margin">Neh. 5.14, 15, 16.</note> 
+               <hi>Nehemiah, who ſince he was Governor in Judah, together with his brethren, did not eat the bread of the Governors; and becauſe of the fear of the Lord, would not follow the ſteps of the former Governors, who before him were chargeable to the people, by taking of them bread and wine, beſides forty ſhekels of ſilver; For charity ſeeks not her own,</hi> 1 Cor. 13.5.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
